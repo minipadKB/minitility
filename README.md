@@ -6,7 +6,7 @@ The configuration software for the minipad firmware.
 Clone the repo and install dependencies:
 
 ```bash
-git clone beta https://github.com/minipadKB/minitility.git minitility
+git clone --branch beta https://github.com/minipadKB/minitility.git minitility
 cd minitility
 npm install
 ```
